@@ -8,9 +8,9 @@
 
 --------------------------------------------------------------------
 <div align="center">
-<h3> Minhas Tecnologias mais usadas </h3>
+<h3> Minhas Tecnologias usadas </h3>
 
- [![My Skills](https://skillicons.dev/icons?i=java,spring,eclipse,aws)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,spring,docker,aws,kotlin,mysql,git)](https://skillicons.dev)
 </div>
 <!--
 **MariCanella/MariCanella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
